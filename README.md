@@ -17,6 +17,6 @@ I like problems where a model has to survive contact with real data: price elast
 
 **Also:** [Invertir Sense Corbata](https://invertirsensecorbata.com), a weekly newsletter on markets and personal finance in Catalan, written with Marc Mases. The site, the data pipeline and the Monday send are built and run by me.
 
-**Tools:** Python (pandas, NumPy, SciPy), JavaScript, SQL, Excel/VBA, LaTeX, Tableau, IQVIA and Nielsen data, Refinitiv.
+**Tools:** Python (pandas, NumPy, SciPy), JavaScript, SQL, Excel, LaTeX, Tableau, IQVIA and Nielsen data, Refinitiv.
 
 [LinkedIn](https://www.linkedin.com/in/ignasi-garcia) · Barcelona
